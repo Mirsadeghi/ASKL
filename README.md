@@ -5,4 +5,4 @@ Implementation of "A Fast and Effective Appearance Model-based Particle Filterin
 % Run tracking<br/>
 PF_SMOG()
 
- ![deformation robustness](deformation.tif)
+ ![deformation robustness](deformation.jpg)
